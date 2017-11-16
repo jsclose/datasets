@@ -9,3 +9,8 @@ https://data.boston.gov/dataset
 
 
 https://www.kdnuggets.com/datasets/index.html
+
+
+
+#Competitions
+https://www.drivendata.org/competitions/
